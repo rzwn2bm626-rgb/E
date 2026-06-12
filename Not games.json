@@ -1,128 +1,242 @@
 [
   {
-		"file_name": "Call of Duty - World at War (USA).html",
-		"title": "Call of Duty - World at War (USA)",
-		"game-logo": "{game-logo_URL}Call of Duty - World at War (USA).avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/classic.html",
-		"title": "Subway Surfers Classic",
-		"thumb": "subway-surfers-classic.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/halloween.html",
-		"title": "Subway Surfers: Halloween",
-		"thumb": "subway-surfers-halloween.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/winter-wonderland.html",
-		"title": "Subway Surfers: Winter Wonderland",
-		"thumb": "subway-surfers-winter-wonderland.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/new-york.html",
-		"title": "Subway Surfers World Tour: New York",
-		"thumb": "subway-surfers-new-york.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/paris.html",
-		"title": "Subway Surfers World Tour: Paris",
-		"thumb": "subway-surfers-paris.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/tokyo.html",
-		"title": "Subway Surfers World Tour: Tokyo",
-		"thumb": "subway-surfers-tokyo.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/rio.html",
-		"title": "Subway Surfers World Tour: Rio",
-		"thumb": "subway-surfers-rio.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/london.html",
-		"title": "Subway Surfers World Tour: London",
-		"thumb": "subway-surfers-london.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/beijing.html",
-		"title": "Subway Surfers World Tour: Beijing",
-		"thumb": "subway-surfers-beijing.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/sydney.html",
-		"title": "Subway Surfers World Tour: Sydney",
-		"thumb": "subway-surfers-sydney.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/rome.html",
-		"title": "Subway Surfers World Tour: Rome",
-		"thumb": "subway-surfers-rome.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/miami.html",
-		"title": "Subway Surfers World Tour: Miami",
-		"thumb": "subway-surfers-miami.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/berlin.html",
-		"title": "Subway Surfers World Tour: Berlin",
-		"thumb": "subway-surfers-berlin.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/moscow.html",
-		"title": "Subway Surfers World Tour: Moscow",
-		"thumb": "subway-surfers-moscow.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/mumbai.html",
-		"title": "Subway Surfers World Tour: Mumbai",
-		"thumb": "subway-surfers-mumbai.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/san-francisco.html",
-		"title": "Subway Surfers World Tour: San Francisco",
-		"thumbs": "subway-surfers-san-francisco.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/seoul.html",
-		"title": "Subway Surfers World Tour: Seoul",
-		"thumb": "subway-surfers-seoul.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/barcelona.html",
-		"title": "Subway Surfers World Tour: Barcelona",
-		"thumb": "subway-surfers-barcelona.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/las-vegas.html",
-		"title": "Subway Surfers World Tour: Las Vegas",
-		"thumb": "subway-surfers-las-vegas.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "subway-surfers/vancouver.html",
-		"title": "Subway Surfers World Tour: Vancouver",
-		"thumb": "subway-surfers-vancouver.avif",
-		"frame": "true"
-	}
+    "id": 1,
+    "name": "Subway Surfers World Tour: New Orleans",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-new-orleans.avif",
+    "url": "{HTML_URL}/subway-surfers/new-orleans.html"
+  },
+  {
+    "id": 2,
+    "name": "Subway Surfers World Tour: Mexico City",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-mexico-city.avif",
+    "url": "{HTML_URL}/subway-surfers/mexico-city.html"
+  },
+  {
+    "id": 3,
+    "name": "Subway Surfers World Tour: São Paulo",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-sao-paulo.avif",
+    "url": "{HTML_URL}/subway-surfers/sao-paulo.html"
+  },
+  {
+    "id": 4,
+    "name": "Subway Surfers World Tour: Los Angeles",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-los-angeles.avif",
+    "url": "{HTML_URL}/subway-surfers/los-angeles.html"
+  },
+  {
+    "id": 5,
+    "name": "Subway Surfers World Tour: Cairo",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-cairo.avif",
+    "url": "{HTML_URL}/subway-surfers/cairo.html"
+  },
+  {
+    "id": 6,
+    "name": "Subway Surfers World Tour: Bangkok",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-bangkok.avif",
+    "url": "{HTML_URL}/subway-surfers/bangkok.html"
+  },
+  {
+    "id": 7,
+    "name": "Subway Surfers World Tour: Hawaii",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-hawaii.avif",
+    "url": "{HTML_URL}/subway-surfers/hawaii.html"
+  },
+  {
+    "id": 8,
+    "name": "Subway Surfers World Tour: Arabia",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-arabia.avif",
+    "url": "{HTML_URL}/subway-surfers/arabia.html"
+  },
+  {
+    "id": 9,
+    "name": "Subway Surfers World Tour: Venice",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-venice.avif",
+    "url": "{HTML_URL}/subway-surfers/venice.html"
+  },
+  {
+    "id": 10,
+    "name": "Subway Surfers World Tour: Greece",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-greece.avif",
+    "url": "{HTML_URL}/subway-surfers/greece.html"
+  },
+  {
+    "id": 11,
+    "name": "Subway Surfers World Tour: Kenya",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-kenya.avif",
+    "url": "{HTML_URL}/subway-surfers/kenya.html"
+  },
+  {
+    "id": 12,
+    "name": "Subway Surfers World Tour: Transylvania",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-transylvania.avif",
+    "url": "{HTML_URL}/subway-surfers/transylvania.html"
+  },
+  {
+    "id": 13,
+    "name": "Subway Surfers World Tour: North Pole",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-north-pole.avif",
+    "url": "{HTML_URL}/subway-surfers/north-pole.html"
+  },
+  {
+    "id": 14,
+    "name": "Subway Surfers World Tour: Prague",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-prague.avif",
+    "url": "{HTML_URL}/subway-surfers/prague.html"
+  },
+  {
+    "id": 15,
+    "name": "Subway Surfers World Tour: Madagascar",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-madagascar.avif",
+    "url": "{HTML_URL}/subway-surfers/madagascar.html"
+  },
+  {
+    "id": 16,
+    "name": "Subway Surfers World Tour: Peru",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-peru.avif",
+    "url": "{HTML_URL}/subway-surfers/peru.html"
+  },
+  {
+    "id": 17,
+    "name": "Subway Surfers World Tour: Singapore",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-singapore.avif",
+    "url": "{HTML_URL}/subway-surfers/singapore.html"
+  },
+  {
+    "id": 18,
+    "name": "Subway Surfers World Tour: Iceland",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-iceland.avif",
+    "url": "{HTML_URL}/subway-surfers/iceland.html"
+  },
+  {
+    "id": 19,
+    "name": "Subway Surfers World Tour: Havana",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-havana.avif",
+    "url": "{HTML_URL}/subway-surfers/havana.html"
+  },
+  {
+    "id": 20,
+    "name": "Subway Surfers World Tour: Washington D.C.",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-washington-dc.avif",
+    "url": "{HTML_URL}/subway-surfers/washington-dc.html"
+  },
+  {
+    "id": 21,
+    "name": "Subway Surfers World Tour: Amsterdam",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-amsterdam.avif",
+    "url": "{HTML_URL}/subway-surfers/amsterdam.html"
+  },
+  {
+    "id": 22,
+    "name": "Subway Surfers World Tour: Monaco",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-monaco.avif",
+    "url": "{HTML_URL}/subway-surfers/monaco.html"
+  },
+  {
+    "id": 23,
+    "name": "Subway Surfers World Tour: Copenhagen",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-copenhagen.avif",
+    "url": "{HTML_URL}/subway-surfers/copenhagen.html"
+  },
+  {
+    "id": 24,
+    "name": "Subway Surfers World Tour: Marrakesh",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-marrakesh.avif",
+    "url": "{HTML_URL}/subway-surfers/marrakesh.html"
+  },
+  {
+    "id": 25,
+    "name": "Subway Surfers World Tour: Shanghai",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-shanghai.avif",
+    "url": "{HTML_URL}/subway-surfers/shanghai.html"
+  },
+  {
+    "id": 26,
+    "name": "Subway Surfers World Tour: Saint Petersburg",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-saint-petersburg.avif",
+    "url": "{HTML_URL}/subway-surfers/saint-petersburg.html"
+  },
+  {
+    "id": 27,
+    "name": "Subway Surfers World Tour: Chicago",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-chicago.avif",
+    "url": "{HTML_URL}/subway-surfers/chicago.html"
+  },
+  {
+    "id": 28,
+    "name": "Subway Surfers World Tour: Buenos Aires",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-buenos-aires.avif",
+    "url": "{HTML_URL}/subway-surfers/buenos-aires.html"
+  },
+  {
+    "id": 29,
+    "name": "Subway Surfers World Tour: Venice Beach",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-venice-beach.avif",
+    "url": "{HTML_URL}/subway-surfers/venice-beach.html"
+  },
+  {
+    "id": 30,
+    "name": "Subway Surfers World Tour: Hong Kong",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-hong-kong.avif",
+    "url": "{HTML_URL}/subway-surfers/hong-kong.html"
+  },
+  {
+    "id": 31,
+    "name": "Subway Surfers World Tour: Atlanta",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-atlanta.avif",
+    "url": "{HTML_URL}/subway-surfers/atlanta.html"
+  },
+  {
+    "id": 32,
+    "name": "Subway Surfers World Tour: Zurich",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-zurich.avif",
+    "url": "{HTML_URL}/subway-surfers/zurich.html"
+  },
+  {
+    "id": 33,
+    "name": "Subway Surfers World Tour: Dubai",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-dubai.avif",
+    "url": "{HTML_URL}/subway-surfers/dubai.html"
+  },
+  {
+    "id": 34,
+    "name": "Subway Surfers World Tour: Bali",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-bali.avif",
+    "url": "{HTML_URL}/subway-surfers/bali.html"
+  },
+  {
+    "id": 35,
+    "name": "Subway Surfers World Tour: Houston",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-houston.avif",
+    "url": "{HTML_URL}/subway-surfers/houston.html"
+  },
+  {
+    "id": 36,
+    "name": "Subway Surfers World Tour: Luoyang",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-luoyang.avif",
+    "url": "{HTML_URL}/subway-surfers/luoyang.html"
+  },
+  {
+    "id": 37,
+    "name": "Subway Surfers World Tour: Shenzhen",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-shenzhen.avif",
+    "url": "{HTML_URL}/subway-surfers/shenzhen.html"
+  },
+  {
+    "id": 38,
+    "name": "Subway Surfers World Tour: Subway City",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-subway-city.avif",
+    "url": "{HTML_URL}/subway-surfers/subway-city.html"
+  },
+  {
+    "id": 39,
+    "name": "Subway Surfers World Tour: Space Station",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-space-station.avif",
+    "url": "{HTML_URL}/subway-surfers/space-station.html"
+  },
+  {
+    "id": 40,
+    "name": "Subway Surfers World Tour: Underwater",
+    "cover": "{COVER_URL}/thumbs/subway-surfers-underwater.avif",
+    "url": "{HTML_URL}/subway-surfers/underwater.html"
+  }
 ]
